@@ -5,7 +5,7 @@ int main() {
          bool a;
          a = true;
      if (a) {
-         cout << "Bien!!!";
+         cout << "Bien!!!\n";
      }
      return 0;
 }
