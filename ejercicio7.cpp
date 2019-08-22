@@ -2,8 +2,10 @@
 using std::cout;
 
 int main() {
-         a = true; // declarar tipo de dato
+         bool a;
+         a = true;
      if (a) {
          cout << "Bien!!!";
      }
+     return 0;
 }
