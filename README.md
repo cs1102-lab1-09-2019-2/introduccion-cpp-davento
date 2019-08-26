@@ -1,9 +1,9 @@
 # Ejercicios usando c++
 
-Nombre:
+Nombre: Daniela Abril Vento Bustamante
 --
 
-Github Username:
+Github Username: davento
 --
 
 Instrucciones:
