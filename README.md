@@ -1,5 +1,10 @@
 # Ejercicios usando c++
 
+Nota:
+--
+davento/..............13................0...............13/13.............20.00
+
+
 Nombre: Daniela Abril Vento Bustamante
 --
 
