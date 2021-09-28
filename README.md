@@ -5,7 +5,7 @@ Nota:
 davento/..............13................0...............13/13.............20.00
 
 
-Nombre: Daniela Abril Vento Bustamante
+Nombre: Abril Vento Bustamante
 --
 
 Github Username: davento
